@@ -44,4 +44,5 @@ Someone clicked the button!
 ```
 
 # TBA...
-[< Go back to the main page](https://github.com/RocketB0ii/LuaBlox/tree/main)
+If there's any issues that you can't fix, please create an issue.
+[< Go back to the main page](https://github.com/RocketB0ii/LuaBlox)
