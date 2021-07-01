@@ -37,6 +37,7 @@ To detect if you clicked the button, use `Button.Click` event.
 Button.Click:Connect(function()
    print("Someone clicked the button!")
 end)
+```
 
 Now look in the output, it should say:
 ```lua
