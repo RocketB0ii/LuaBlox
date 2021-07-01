@@ -47,6 +47,6 @@ Someone clicked the button!
 # TBA...
 If there's any issues that you can't fix, please create an issue.
 
-[DevHub page](https://developer.roblox.com/en-us/articles/Intro-to-Plugins)
+[DevHub page](https://developer.roblox.com/en-us/articles/Intro-to-Plugins) 
 
 [< Go back to the main page](https://github.com/RocketB0ii/LuaBlox)
